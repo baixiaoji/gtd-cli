@@ -1,0 +1,14 @@
+{
+  "name": "gtd-cli",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "baixiaoji",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^4.0.0",
+    "inquirer": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.5"
+  }
+}
