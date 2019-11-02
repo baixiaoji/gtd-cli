@@ -1,5 +1,11 @@
 {
   "name": "gtd-cli",
+  "bin": {
+    "gtd": "cli.js"
+  },
+  "files": [
+    "*.js"
+  ],
   "version": "0.0.1",
   "main": "index.js",
   "author": "baixiaoji",
